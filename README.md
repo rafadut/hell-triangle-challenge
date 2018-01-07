@@ -6,8 +6,8 @@ This project was generated with [.NET Core](https://github.com/dotnet/core) vers
 
 ## Running the project
 
-Navigate to the folder hell-triangle-challenge\hell-triangle-challenge . Execute `dotnet run`.
+Navigate to the folder `hell-triangle-challenge`. Execute `dotnet run`.
 
 ## Running unit tests
 
-Navigate to the folder hell-triangle-challenge\hell-triangle-challenge-test . Run `dotnet test` to execute the unit tests.
+Navigate to the folder `hell-triangle-challenge-test`. Run `dotnet test` to execute the unit tests.
